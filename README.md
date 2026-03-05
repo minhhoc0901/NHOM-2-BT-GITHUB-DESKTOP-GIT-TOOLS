@@ -9,7 +9,7 @@
 | 4   | Thành Nam    |@NamDanney      | feature/nam/book-detail      | Book Detail                 |
 | 5   | Nhữ Huy      |@vanivietquat   | feature/nhu-huy/search-book  | Search Book                 |
 | 6   | Minh Huy     |@caominhhuy204  | feature/minh-huy/list-delete | List & Delete               |
-| 7   | Anh Kiệt     |@KietAnh160704  | feature/kiet/sort-book       | Sort Book                   |
+| 7   | Anh Kiệt     |@KietAnh1607    | feature/kiet/sort-book       | Sort Book                   |
 
 ## Cấu trúc nhánh Repository
 - **main**: Nhánh production (không commit trực tiếp, chỉ merge qua PR/MR)
