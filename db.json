@@ -161,6 +161,15 @@
       "price": 115000,
       "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80&w=800",
       "category": "Văn học nước ngoài"
+    },
+    {
+      "id": "5af7",
+      "title": "Đắc  Nhân Tâm",
+      "author": "Lê Toàn Bân",
+      "description": "Lê Toàn Bân",
+      "price": 31223,
+      "category": "Thể Loại",
+      "image": "../images/DacNhanTam.jpg"
     }
   ]
 }
