@@ -161,15 +161,6 @@
       "price": 115000,
       "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80&w=800",
       "category": "Văn học nước ngoài"
-    },
-    {
-      "id": "20",
-      "title": "7 Thói Quen Để Thành Đạt",
-      "author": "Stephen R. Covey",
-      "description": "Những thói quen tạo nên hiệu quả cá nhân.",
-      "price": 200000,
-      "image": "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?auto=format&fit=crop&q=80&w=800",
-      "category": "Kỹ năng sống"
     }
   ]
 }
